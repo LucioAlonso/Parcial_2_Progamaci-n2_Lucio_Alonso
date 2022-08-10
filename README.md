@@ -32,5 +32,5 @@ Para ello:
 
 El sistema deberá utilizar abstracción, encapsulamiento, herencia, polimorfismo y persistencia (no BD).
 
-La E/S del sistema tendra que ser realizado para una pagina web.
+La E/S del sistema tendra que ser realizado para una pagina web SIN FRAMEWORKS.
 
