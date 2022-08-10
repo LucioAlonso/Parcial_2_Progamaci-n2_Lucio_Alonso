@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AVIS Pagina Principal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="/AVIS/css/favicon.png">
+    </head>
+    <body>
+        <h1>AVIS</h1>
+        <h2>Alquiler de Vehiculos</h2>
+        <form method="get" action="General/inicioSesion.jsp">
+            <button type="submit">Iniciar Sesion</button>
+        </form>    
+
+        <form method="post" action="ReservasController?accion=buscar&dni=dni_cliente">
+            <p> 
+                Consultar Reservas
+                <br>
+                DNI:
+                <input id="dni_cliente" name="dni_cliente" type="text" />  
+            </p>
+            <button type="submit">Buscar</button>
+        </form>    
+

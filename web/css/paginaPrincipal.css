@@ -1,0 +1,42 @@
+#paginaNuevoVehiculo{
+    text-align:center;
+}
+
+
+.planillaDeDatos{
+    text-align:center;
+}
+
+#paginaNuevaReserva{
+    text-align:center;
+}
+
+#nuevaReserva{
+    margin-top: 1em;
+}
+
+.titulos{
+    margin-top: -1em;
+    text-align:center;
+}
+
+.inicioBoton{
+    margin-right: 2em;
+    text-align:right;
+
+}
+
+.nombreTabla{
+    margin-left: 2em;
+}
+
+.tabla{
+    margin: 2em;
+    margin-top: -1em;
+    width: 40vw;
+
+}
+
+.consultar{
+    text-align:center;
+}
