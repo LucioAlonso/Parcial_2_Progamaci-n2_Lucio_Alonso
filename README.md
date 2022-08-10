@@ -1,6 +1,6 @@
 # Parcial N°2 Lucio Alonso
 
-Proyecto para el primer parcial realizado para la materia de Programación 2 de la carrera de Informática Aplicada.
+Proyecto para el SEGUNDO PARCIAL realizado para la materia de Programación 2 de la carrera de Informática Aplicada.
 
 La consigna es la siguiente:
 
